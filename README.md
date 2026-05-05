@@ -39,10 +39,41 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riskerez/riskerez/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riskerez/riskerez/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/riskerez/riskerez/output/pacman-contribution-graph.svg">
-</picture>
+## 👨‍💻 Sobre mim
 
-###
+Sou **Miguel Cesar (Zeez)**, desenvolvedor em formação no Brasil 🇧🇷  
+Atualmente curso o ensino médio pelo **SESI** e faço técnico em **Desenvolvimento de Sistemas pelo SENAI**.
+
+Tenho cerca de **2 anos de experiência com programação**, trabalhando com tecnologias como:
+
+- Python, PHP, C#, JavaScript  
+- HTML, CSS, Bootstrap  
+- Dart  
+- MySQL Server  
+- Azure e ambientes com máquinas virtuais  
+
+Atuo principalmente como **desenvolvedor full stack**, com maior afinidade por **front-end**, onde consigo explorar melhor minha criatividade e construir interfaces mais envolventes.
+
+Já participei de projetos como o desenvolvimento do site da **Boltides Technology**, além de experiências anteriores com **mods em Java para Minecraft**, o que fortaleceu minha base em lógica e estrutura de sistemas.
+
+---
+
+## 🚀 Objetivos
+
+Atualmente, busco evoluir principalmente em:
+
+- 🎮 Desenvolvimento de jogos  
+- 🧠 Engenharia de software  
+- 🏗️ Arquitetura de sistemas  
+
+---
+
+## 🧩 Perfil
+
+Sou uma pessoa:
+
+- Criativa e curiosa  
+- Focada em evolução constante  
+- Persistente em projetos de longo prazo  
+
+Trabalho bem em equipe quando há uma boa liderança, mas também tenho autonomia para desenvolver soluções de forma independente.
